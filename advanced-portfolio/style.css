@@ -1,0 +1,16 @@
+body { font-family: 'Montserrat', sans-serif; background: #0f0f0f; color: #fff; display: flex; margin: 0; }
+.sidebar { width: 280px; background: #111; padding: 2rem; min-height: 100vh; position: fixed; }
+.profile { text-align: center; margin-bottom: 2rem; }
+.profile-pic { width: 120px; border-radius: 50%; border: 3px solid #00ffcc; margin-bottom: 1rem; }
+.side-nav { display: flex; flex-direction: column; gap: 1rem; }
+.side-nav a { color: #fff; text-decoration: none; }
+main { margin-left: 280px; flex: 1; }
+.hero { height: 100vh; display: flex; align-items: center; position: relative; padding: 3rem; }
+.hero-text { z-index: 2; }
+.hero h1 { font-size: 3.5rem; }
+.highlight { color: #00ffcc; }
+.btn { margin-top: 1.5rem; padding: 0.8rem 2rem; background: linear-gradient(45deg, #00ffcc, #0066ff); border-radius: 30px; color: #fff; text-decoration: none; }
+#bg-canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; }
+.section { padding: 5rem 2rem; max-width: 1000px; margin: auto; text-align: center; }
+.glass-card { background: rgba(255,255,255,0.05); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.1); border-radius: 15px; padding: 2rem; margin: 1rem; }
+footer { text-align: center; padding: 1.5rem; color: #888; }
