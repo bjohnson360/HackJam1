@@ -85,5 +85,3 @@ Example:
 - Make a “dark/light mode” toggle with JavaScript.  
 
 ---
-
-Congrats 🎊 — you’ve built and launched your very own portfolio!

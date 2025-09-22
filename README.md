@@ -1,6 +1,6 @@
 # HackJam 1: Build Your Own Portfolio 🚀
 
-Welcome to Programming Club’s very first HackJam!  
+Welcome to progsu’s very first HackJam!  
 In this session, you’ll learn how to build and customize your own **personal portfolio website**.  
 
 By the end of this HackJam, you’ll have:
@@ -17,7 +17,7 @@ This repo contains **three different portfolio templates**:
 templates/
 ├── simple-portfolio/        # Beginner friendly
 ├── modern-portfolio/        # Stylish with animations
-└── advanced-portfolio/      # Futuristic glassmorphism + particles
+└── advanced-portfolio/      # Futuristic + particles
 assets/                      # Shared images/icons
 README.md                    # HackJam guide (this file)
 customization-guide.md       # Step-by-step edit instructions
@@ -25,7 +25,7 @@ customization-guide.md       # Step-by-step edit instructions
 
 - **Simple Portfolio** → Minimal starter, great if you’re brand new to coding.  
 - **Modern Portfolio** → Clean, professional, with animations.  
-- **Advanced Portfolio** → Jaw-dropping design with particle effects + glassmorphism.  
+- **Advanced Portfolio** → Design with particle effects + glassmorphism.  
 
 👉 Choose whichever template you like, then follow the [Customization Guide](customization-guide.md) to make it your own.  
 
@@ -85,6 +85,4 @@ After the HackJam, try leveling up your portfolio:
 - Use [Font Awesome](https://fontawesome.com/) for icons.  
 - Try adding a **Dark Mode toggle** with JavaScript.  
 
----
-
-🔥 Congrats — you’re about to have your own live website on the internet!  
+---  
